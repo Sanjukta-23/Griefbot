@@ -5,10 +5,13 @@
 ![Gemini](https://img.shields.io/badge/AI_Engine-Google_Gemini_2.0_Flash-4285F4?logo=google&logoColor=white)
 ![Hackathon](https://img.shields.io/badge/Status-Hackathon_Project-gold)
 
+## 🌐 Live Demo
+**[Click here to experience GriefBot Live!](https://griefbot-hackathon.streamlit.app/)**
+
 **GriefBot** is a multimodal, emotionally intelligent AI companion designed to guide users through the isolating experience of loss. Built for the **Health & Wellbeing** hackathon track.
 
 ## 💡 The Inspiration
-The mental health tech space is saturated with apps for productivity, anxiety, and daily stress—but **grief** is almost completely ignored. When someone experiences a profound loss (a loved one, a pet, a relationship, or a career), they are often left to navigate a highly non-linear, isolating journey alone. 
+The mental health tech space is saturated with apps for productivity, anxiety, and daily stress - but **grief** is almost completely ignored. When someone experiences a profound loss (a loved one, a pet, a relationship, or a career), they are often left to navigate a highly non-linear, isolating journey alone. 
 
 GriefBot bridges this gap by providing a safe, private, and judgment-free digital space for users to process their emotions, using advanced generative AI to actively listen and validate their feelings.
 
