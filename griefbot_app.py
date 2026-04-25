@@ -9,7 +9,7 @@ from google.genai import types
 
 # --- Setup the Gemini AI Connection ---
 # Put your Gemini API key inside the quotes below!
-client = genai.Client(api_key="AIzaSyD-X2MmKyK9xPz7aNgrqnLLcRBfnQuFBvU")
+client = genai.Client(api_key=st.secrets["GEMINI_API_KEY"])
 
 def get_real_ai_response(chat_history):
     try:
